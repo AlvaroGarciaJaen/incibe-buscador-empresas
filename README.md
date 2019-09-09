@@ -1,4 +1,5 @@
 # Empresas que se dedican a la ciberseguridad en Granada
+## Encontradas: 26 empresas en el sector
 
 -    [Alhsis](http://www.alhsis.com)
 -    [ANDAL NET](http://www.andalnet.com)

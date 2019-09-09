@@ -66,7 +66,9 @@ titles = title_parser.result()
 webs = web_parser.result()
 
 
-print("# Empresas que se dedican a la ciberseguridad en Granada\n")
-for x in range(len(titles)):
+length = len(titles)
+print("# Empresas que se dedican a la ciberseguridad en Granada")
+print("## Encontradas: {} empresas en el sector\n".format(length))
+for x in range(length):
     t, w = titles[x], webs[x]
     print('-    [{}]({})'.format(t, w))
